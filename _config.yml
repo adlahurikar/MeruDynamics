@@ -1,0 +1,10 @@
+# Site settings
+title: "MeruDynamics"
+email:
+description:
+baseurl: /MeruDynamics
+
+# Build settings
+permalink: :title/
+sass:
+  sass_dir: css

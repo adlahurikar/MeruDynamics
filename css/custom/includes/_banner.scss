@@ -1,0 +1,14 @@
+#banner{
+  position: relative;
+  background: url('../assets/img/banner/Banner5.jpeg');
+  min-height: 260px;
+
+  .primary-overlay{
+    background: rgba(0, 191, 255, 0.4);
+    position: relative;
+    top: 10%;
+    left: 40%; //Moves Title from left
+    width: 0%;
+    height: 100%;
+  }
+}
