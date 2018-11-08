@@ -2,7 +2,7 @@
 title: "MeruDynamics"
 email:
 description:
-baseurl: /merudynamics
+baseurl: /MeruDynamics
 
 # Build settings
 permalink: :title/
